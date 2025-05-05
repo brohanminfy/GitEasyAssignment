@@ -18,3 +18,13 @@ Assignment 1: Basic Git Workflow
 
 
 <h1> Updated README.md File For 2nd Assignment </h1>
+
+<h2> Pull Request dialogue</h2>
+
+![alt text](PR.png)
+
+![alt text](CPR.png)
+
+![alt text](MPR.png)
+
+![alt text](Merge.png)
