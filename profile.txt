@@ -10,3 +10,7 @@ Projects :
     Campus Connect,
     Legal Advisory ChatBot,
     Fake News Prediction
+Certificates:
+    Oracle Java Certification
+    HackerRank Python Certification
+Experience: Internship at realpage 
