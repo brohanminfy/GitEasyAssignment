@@ -1,9 +1,9 @@
 # GitEasyAssignment
 Assignment 1: Basic Git Workflow
 
-
+<h1> Git Log </h1>
 ![alt text](gitlog.png)
-
+<h1> Git Commits </h1>
 ![alt text](gitcommit.png)
 
 <h1>Commit Explanation</h1>
