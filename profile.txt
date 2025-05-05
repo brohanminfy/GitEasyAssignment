@@ -3,3 +3,5 @@ Age : 22
 City : Hyderabad
 College : GCET
 Status : Single 
+Company : Minfy 
+Role : Intern
