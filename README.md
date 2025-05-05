@@ -21,10 +21,18 @@ Assignment 1: Basic Git Workflow
 
 <h2> Pull Request dialogue</h2>
 
+<h3>Pull request page</h3>
+
 ![alt text](PR.png)
+
+<h3>Creating Pull Request</h3>
 
 ![alt text](CPR.png)
 
+<h3>Merge Pull Request</h3>
+
 ![alt text](MPR.png)
+
+<h3>Final Merge</h3>
 
 ![alt text](Merge.png)
