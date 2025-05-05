@@ -5,3 +5,8 @@ College : GCET
 Status : Single 
 Company : Minfy 
 Role : Intern
+Projects :
+    Task Management Tool, 
+    Campus Connect,
+    Legal Advisory ChatBot,
+    Fake News Prediction
