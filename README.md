@@ -15,3 +15,6 @@ Assignment 1: Basic Git Workflow
 <li> <b>Second Commit </b> : Add about project details and used commit message convections </li>
 <li> <b>Third Commit </b> : Add about Certifications and Expirence details and used commit message convections</li>
 </ul>
+
+
+<h1> Updated README.md File For 2nd Assignment </h1>
